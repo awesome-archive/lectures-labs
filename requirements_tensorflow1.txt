@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+jupyter
+matplotlib
+pandas
+h5py
+pillow
+scikit-image
+lxml
+tensorflow==1.14
+keras==2.3.0
+opencv-python
